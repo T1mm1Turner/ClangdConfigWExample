@@ -9,7 +9,7 @@ The solution for this is: the [--query-driver](https://clangd.llvm.org/guides/sy
 ```json
 {
     "clang.path": "~\\.config\\coc\\extensions\\coc-clangd-data\\\\install\\18.1.3\\clangd_18.1.3\\bin\\clangd.exe",
-    "clang.arguments: ["--query-driver=C:\\msys64\\ucrt64\\bin\\gcc.exe"]
+    "clang.arguments": ["--query-driver=C:\\msys64\\ucrt64\\bin\\gcc.exe"]
 }
 ```
 
